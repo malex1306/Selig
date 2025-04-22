@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selig", "Selig\Selig.csproj", "{2391F212-6630-47B5-9B9F-BD869ED07CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day1", "day1", "{11019D21-4C29-4261-8EBC-17C5C8FD1DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methoden", "Methoden", "{AB4CF01D-A4A6-40E7-96AD-FF65BA6AFD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2391F212-6630-47B5-9B9F-BD869ED07CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2391F212-6630-47B5-9B9F-BD869ED07CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2391F212-6630-47B5-9B9F-BD869ED07CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2391F212-6630-47B5-9B9F-BD869ED07CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB4CF01D-A4A6-40E7-96AD-FF65BA6AFD2F} = {11019D21-4C29-4261-8EBC-17C5C8FD1DC4}
+		{CE28CF40-9FC8-4A12-8102-6E4CC8B0A350} = {AB4CF01D-A4A6-40E7-96AD-FF65BA6AFD2F}
+	EndGlobalSection
+EndGlobal

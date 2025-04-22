@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/bin/Debug/net9.0/Methoden
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/bin/Debug/net9.0/Methoden.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/bin/Debug/net9.0/Methoden.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/bin/Debug/net9.0/Methoden.dll
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/bin/Debug/net9.0/Methoden.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.dll
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/refint/Methoden.dll
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/ref/Methoden.dll

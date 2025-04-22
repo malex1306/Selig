@@ -1,0 +1,8 @@
+-[x] Klasse/Objekt 
+-[ ] Konstruktoren 
+-[ ] Felder/ Methoden
+-[ ] Properties
+-[ ] Intefaces
+-[ ] Abstrakte Klassen
+-[ ] Staische klassen
+-[ ] Exeptions 
