@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/bin/Debug/net9.0/Exception1
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/bin/Debug/net9.0/Exception1.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/bin/Debug/net9.0/Exception1.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/bin/Debug/net9.0/Exception1.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/bin/Debug/net9.0/Exception1.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/refint/Exception1.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/Exception1.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception1/obj/Debug/net9.0/ref/Exception1.dll

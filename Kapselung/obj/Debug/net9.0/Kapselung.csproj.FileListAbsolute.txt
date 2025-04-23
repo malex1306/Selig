@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/bin/Debug/net9.0/Kapselung
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/bin/Debug/net9.0/Kapselung.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/bin/Debug/net9.0/Kapselung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/bin/Debug/net9.0/Kapselung.dll
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/bin/Debug/net9.0/Kapselung.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.dll
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/refint/Kapselung.dll
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/Kapselung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Kapselung/obj/Debug/net9.0/ref/Kapselung.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/bin/Debug/net9.0/Ueberschreiben
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/bin/Debug/net9.0/Ueberschreiben.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/bin/Debug/net9.0/Ueberschreiben.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/bin/Debug/net9.0/Ueberschreiben.dll
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/bin/Debug/net9.0/Ueberschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.dll
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/refint/Ueberschreiben.dll
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/Ueberschreiben.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Ueberschreiben/obj/Debug/net9.0/ref/Ueberschreiben.dll

@@ -12,3 +12,4 @@
 /Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.pdb
 /Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.genruntimeconfig.cache
 /Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/ref/Methoden.dll
+/Users/marcelalexandre/RiderProjects/Selig/Methoden/obj/Debug/net9.0/Methoden.sourcelink.json

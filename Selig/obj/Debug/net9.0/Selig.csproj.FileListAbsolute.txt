@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Selig/bin/Debug/net9.0/Selig
+/Users/marcelalexandre/RiderProjects/Selig/Selig/bin/Debug/net9.0/Selig.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Selig/bin/Debug/net9.0/Selig.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Selig/bin/Debug/net9.0/Selig.dll
+/Users/marcelalexandre/RiderProjects/Selig/Selig/bin/Debug/net9.0/Selig.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.dll
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/refint/Selig.dll
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/Selig.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Selig/obj/Debug/net9.0/ref/Selig.dll

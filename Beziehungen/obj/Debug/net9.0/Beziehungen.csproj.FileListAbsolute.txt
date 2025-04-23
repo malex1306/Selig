@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/bin/Debug/net9.0/Beziehungen
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/bin/Debug/net9.0/Beziehungen.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/bin/Debug/net9.0/Beziehungen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/bin/Debug/net9.0/Beziehungen.dll
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/bin/Debug/net9.0/Beziehungen.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.dll
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/refint/Beziehungen.dll
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/Beziehungen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Beziehungen/obj/Debug/net9.0/ref/Beziehungen.dll

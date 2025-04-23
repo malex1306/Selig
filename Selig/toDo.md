@@ -5,4 +5,4 @@
 -[ ] Intefaces
 -[ ] Abstrakte Klassen
 -[ ] Staische klassen
--[ ] Exeptions 
+-[ ] Exceptions 
