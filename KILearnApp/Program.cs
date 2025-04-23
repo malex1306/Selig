@@ -40,7 +40,7 @@ namespace KILearnApp
 
         static async Task<MCQResult> FrageAnKI(string thema)
         {
-            var apiKey = "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"; 
+            var apiKey = ""; 
             var client = new HttpClient();
             client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
             client.DefaultRequestHeaders.Add("HTTP-Referer", "https://deine-app.com");
