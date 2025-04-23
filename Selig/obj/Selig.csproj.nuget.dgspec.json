@@ -44,6 +44,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[5.0.0-preview.1.25127.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

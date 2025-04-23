@@ -1,0 +1,14 @@
+PlayerVisible,Health,DistanceToPlayer,Action
+true,80,5,Attack
+true,30,2,Flee
+false,100,10,Patrol
+true,20,1,Flee
+false,60,12,Patrol
+true,90,3,Attack
+false,50,15,Patrol
+true,70,7,Flee
+true,40,6,Attack
+false,80,18,Patrol
+true,10,1,Flee
+false,90,20,Patrol
+true,60,4,Attack

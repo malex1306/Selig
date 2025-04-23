@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/bin/Debug/net9.0/Exception3
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/bin/Debug/net9.0/Exception3.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/bin/Debug/net9.0/Exception3.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/bin/Debug/net9.0/Exception3.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/bin/Debug/net9.0/Exception3.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/refint/Exception3.dll
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/Exception3.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Exception3/obj/Debug/net9.0/ref/Exception3.dll

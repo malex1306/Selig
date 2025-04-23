@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gRZ56qBwz4=",
+  "success": true,
+  "projectFilePath": "/Users/marcelalexandre/RiderProjects/Selig/Exception3/Exception3.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcelalexandre/.nuget/packages/microsoft.ml.dataview/5.0.0-preview.1.25127.4/microsoft.ml.dataview.5.0.0-preview.1.25127.4.nupkg.sha512",
+    "/Users/marcelalexandre/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/marcelalexandre/.nuget/packages/system.memory/4.6.0/system.memory.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
