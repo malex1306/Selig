@@ -7,10 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Aufgabe1/1.0.0": {
+        "dependencies": {
+          "Microsoft.ML.DataView": "5.0.0-preview.1.25127.4"
+        },
         "runtime": {
           "Aufgabe1.dll": {}
         }
-      }
+      },
+      "Microsoft.ML.DataView/5.0.0-preview.1.25127.4": {
+        "dependencies": {
+          "System.Collections.Immutable": "8.0.0",
+          "System.Memory": "4.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ML.DataView.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "5.0.25.12704"
+          }
+        }
+      },
+      "System.Collections.Immutable/8.0.0": {},
+      "System.Memory/4.6.0": {}
     }
   },
   "libraries": {
@@ -18,6 +35,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.ML.DataView/5.0.0-preview.1.25127.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sBK1mHrepbiIXsQktYkiM25iMtKxV4A9TzvTxAF71Cv7mDODQ/ieIZoXkbi2YZd8Dolhm3V58oM7eo5I8/lQjw==",
+      "path": "microsoft.ml.dataview/5.0.0-preview.1.25127.4",
+      "hashPath": "microsoft.ml.dataview.5.0.0-preview.1.25127.4.nupkg.sha512"
+    },
+    "System.Collections.Immutable/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AurL6Y5BA1WotzlEvVaIDpqzpIPvYnnldxru8oXJU2yFxFUy3+pNXjXd1ymO+RA0rq0+590Q8gaz2l3Sr7fmqg==",
+      "path": "system.collections.immutable/8.0.0",
+      "hashPath": "system.collections.immutable.8.0.0.nupkg.sha512"
+    },
+    "System.Memory/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OEkbBQoklHngJ8UD8ez2AERSk2g+/qpAaSWWCBFbpH727HxDq5ydVkuncBaKcKfwRqXGWx64dS6G1SUScMsitg==",
+      "path": "system.memory/4.6.0",
+      "hashPath": "system.memory.4.6.0.nupkg.sha512"
     }
   }
 }

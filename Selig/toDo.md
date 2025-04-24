@@ -6,3 +6,5 @@
 -[ ] Abstrakte Klassen
 -[ ] Staische klassen
 -[ ] Exceptions 
+-[ ] Generics
+-[ ] Delegates 

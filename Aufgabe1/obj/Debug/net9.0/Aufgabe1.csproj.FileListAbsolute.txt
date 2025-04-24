@@ -13,3 +13,6 @@
 /Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/obj/Debug/net9.0/Aufgabe1.pdb
 /Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/obj/Debug/net9.0/Aufgabe1.genruntimeconfig.cache
 /Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/obj/Debug/net9.0/ref/Aufgabe1.dll
+/Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/bin/Debug/net9.0/Microsoft.ML.DataView.dll
+/Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/obj/Debug/net9.0/Aufgabe1.csproj.AssemblyReference.cache
+/Users/marcelalexandre/RiderProjects/Selig/Aufgabe1/obj/Debug/net9.0/Aufgabe1.csproj.Up2Date

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/bin/Debug/net9.0/GenericRepository
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/bin/Debug/net9.0/GenericRepository.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/bin/Debug/net9.0/GenericRepository.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/bin/Debug/net9.0/GenericRepository.dll
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/bin/Debug/net9.0/GenericRepository.pdb
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.dll
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/refint/GenericRepository.dll
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.pdb
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/GenericRepository.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/GenericRepository/obj/Debug/net9.0/ref/GenericRepository.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Generics/bin/Debug/net9.0/Generics
+/Users/marcelalexandre/RiderProjects/Selig/Generics/bin/Debug/net9.0/Generics.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Generics/bin/Debug/net9.0/Generics.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Generics/bin/Debug/net9.0/Generics.dll
+/Users/marcelalexandre/RiderProjects/Selig/Generics/bin/Debug/net9.0/Generics.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.dll
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/refint/Generics.dll
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/Generics.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Generics/obj/Debug/net9.0/ref/Generics.dll

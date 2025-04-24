@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/bin/Debug/net9.0/Delegates01
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/bin/Debug/net9.0/Delegates01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/bin/Debug/net9.0/Delegates01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/bin/Debug/net9.0/Delegates01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/bin/Debug/net9.0/Delegates01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/refint/Delegates01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/Delegates01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Delegates01/obj/Debug/net9.0/ref/Delegates01.dll
