@@ -1,41 +1,36 @@
-﻿using System;
-using System.Numerics;
+﻿namespace GenericRepository {
+    internal class Program {
+        static void Main(string[] args) {
+            var repo = new InMemoryRepository<User>();
 
-namespace GenericRepository;
+            var user1 = new User() {
+                Name = "Hans",
+                DateOfBirth = new DateOnly(1980, 10, 11),
+                Id = Guid.NewGuid()
+            };
+            
+            var user2 = new User() {
+                Name = "Gitte",
+                DateOfBirth = new DateOnly(1980, 11, 10),
+                Id = Guid.NewGuid()
+            };
+            
+            var user3 = new User() {
+                Name = "Hans",
+                DateOfBirth = new DateOnly(1990, 11, 10),
+                Id = Guid.NewGuid()
+            };
+           
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        InMemoryRepository<User> repo = new InMemoryRepository<User>();
-        BigInteger max = BigInteger.Pow(2, 128); 
-        int count = 0;
-
-        try
-        {
-            for (BigInteger i = 0; i < max; i++)
-            {
-                User person = new User(){Name = "John" + i};
-                repo.Add(person);
-                count++;
-
-                if (count % 100_000 == 0)
-                {
-                    Console.WriteLine($"Erstellt: {count}");
-                }
+            repo.Add(user1);
+            repo.Add(user2);
+            repo.Add(user3);
+            repo.Print();
+            
+            var allHans = repo.Search(value => value.Name.Contains('3'));
+            foreach (var user in allHans) {
+                Console.WriteLine(user);
             }
-        }
-        catch (OutOfMemoryException)
-        {
-            Console.WriteLine("Out of memory!");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Anderer Fehler: {ex.Message}");
-        }
-        finally
-        {
-            Console.WriteLine($"Insgesamt erfolgreich erstellt: {count} Personen.");
         }
     }
 }

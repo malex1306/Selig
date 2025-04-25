@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/bin/Debug/net9.0/Wasserstand01
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/bin/Debug/net9.0/Wasserstand01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/bin/Debug/net9.0/Wasserstand01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/bin/Debug/net9.0/Wasserstand01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/bin/Debug/net9.0/Wasserstand01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/refint/Wasserstand01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/Wasserstand01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserstand01/obj/Debug/net9.0/ref/Wasserstand01.dll

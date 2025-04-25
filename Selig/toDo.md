@@ -8,3 +8,9 @@
 -[ ] Exceptions 
 -[ ] Generics
 -[ ] Delegates 
+-[ ] Events 
+
+MVC = Model View Controller
+- Model (Datenbank)
+- View (Frontend)
+- Controller (Geschäfts Logik abbilden)

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Events01/bin/Debug/net9.0/Events01
+/Users/marcelalexandre/RiderProjects/Selig/Events01/bin/Debug/net9.0/Events01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Events01/bin/Debug/net9.0/Events01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Events01/bin/Debug/net9.0/Events01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Events01/bin/Debug/net9.0/Events01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/refint/Events01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/Events01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Events01/obj/Debug/net9.0/ref/Events01.dll

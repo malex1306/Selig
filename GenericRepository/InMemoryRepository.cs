@@ -32,4 +32,17 @@ public class InMemoryRepository<T> where T : IEntity
             Console.WriteLine(item);
         }
     }
+
+    public List<T> Search(Func<T, bool> filter)
+    {
+        List<T> list = [];
+        foreach (T item in data.Values)
+        {
+            if (filter(item))
+            {
+                list.Add(item);
+            }
+        }
+        return list;
+    }
 }
