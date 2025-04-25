@@ -1,5 +1,5 @@
-namespace Wasserstand01
-{
+namespace Wasserstand01;
+
     public class Schiff
     {
         private string name;
@@ -19,4 +19,3 @@ namespace Wasserstand01
             Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu hohem Wasserstand ({e.Wasserstand} cm)");
         }
     }
-}

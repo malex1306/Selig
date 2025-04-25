@@ -7,7 +7,7 @@ public class View
     public View(Model model)
     {
         this.model = model;
-        this.model.DataChanged += ShowData;
+        this.model.DataChanged += (sender, e) => ShowData();
     }
 
     public void ShowData()
