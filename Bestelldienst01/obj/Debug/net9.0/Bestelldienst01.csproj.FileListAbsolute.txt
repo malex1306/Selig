@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/bin/Debug/net9.0/Bestelldienst01
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/bin/Debug/net9.0/Bestelldienst01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/bin/Debug/net9.0/Bestelldienst01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/bin/Debug/net9.0/Bestelldienst01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/bin/Debug/net9.0/Bestelldienst01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/refint/Bestelldienst01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/Bestelldienst01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Bestelldienst01/obj/Debug/net9.0/ref/Bestelldienst01.dll

@@ -6,4 +6,5 @@ public class ViewAnzeige
    {
       Console.WriteLine($"Anzeige: Neue Nachricht -> {e.Nachricht}");
    }
+   
 }
