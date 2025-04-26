@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/bin/Debug/net9.0/NachrichtenDienstEmail
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/bin/Debug/net9.0/NachrichtenDienstEmail.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/bin/Debug/net9.0/NachrichtenDienstEmail.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/bin/Debug/net9.0/NachrichtenDienstEmail.dll
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/bin/Debug/net9.0/NachrichtenDienstEmail.pdb
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.dll
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/refint/NachrichtenDienstEmail.dll
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.pdb
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/NachrichtenDienstEmail.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/NachrichtenDienstEmail/obj/Debug/net9.0/ref/NachrichtenDienstEmail.dll
