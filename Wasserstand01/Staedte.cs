@@ -9,7 +9,7 @@ public class Stadt
         this.name = name;
     }
 
-    public void SchutzwandErrichten(object? sender, WasserstandEventArgs e)
+    public void ReagiereAufWasserstand(object? sender, WasserstandEventArgs e)
     {
         if (e.Wasserstand >= 8200)
         {
@@ -17,6 +17,8 @@ public class Stadt
         }
     }
 }
+
+
 
 public class Klaeranlage
 {

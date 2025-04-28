@@ -1,21 +1,23 @@
 namespace Wasserstand01;
 
-    public class Schiff
+public class Schiff
+{
+    private string name;
+
+    public Schiff(string name)
     {
-        private string name;
+        this.name = name;
+    }
 
-        public Schiff(string name)
-        {
-            this.name = name;
-        }
-
-        public void StopWegenZuNiedrig(object? sender, WasserstandEventArgs e)
+    public void ReagiereAufWasserstand(object? sender, WasserstandEventArgs e)
+    {
+        if (e.Wasserstand < 250)
         {
             Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu niedrigem Wasserstand ({e.Wasserstand} cm)");
         }
-
-        public void StopWegenZuHoch(object? sender, WasserstandEventArgs e)
+        else if (e.Wasserstand > 8000)
         {
             Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu hohem Wasserstand ({e.Wasserstand} cm)");
         }
     }
+}
