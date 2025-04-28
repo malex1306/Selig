@@ -94,6 +94,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bestelldienst", "Bestelldie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bestelldienst01", "Bestelldienst01\Bestelldienst01.csproj", "{39AF15CC-7EF1-4FFF-94BF-46AB0C68A7E6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day5", "day5", "{00823A0D-EBA9-4F15-AAE8-E02C3F43D4AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

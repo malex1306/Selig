@@ -14,13 +14,13 @@ public class Model
     public void AddData(string s)
     {
         dataList.Add(s);
-        DataChanged?.Invoke(this, new MyEventArgs(s, s));
+        DataChanged?.Invoke(this, new MyEventArgs("Add", s));
     }
 
     public void RemoveData(string s)
     {
         dataList.Remove(s);
-        DataChanged?.Invoke(this, new MyEventArgs(s, s));
+        DataChanged?.Invoke(this, new MyEventArgs("Remove", s));
     }
 
     public List<string> GetAllData()

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wasserstand01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca27effb6d1b56ad6607906d35060665d6f4a03e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880a9cf9f267c462f07bc335c123e908746d04cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wasserstand01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wasserstand01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
