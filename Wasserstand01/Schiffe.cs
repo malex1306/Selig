@@ -15,9 +15,9 @@ public class Schiff
         {
             Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu niedrigem Wasserstand ({e.Wasserstand} cm)");
         }
-        else if (e.Wasserstand > 8000)
-        {
-            Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu hohem Wasserstand ({e.Wasserstand} cm)");
-        }
+        else if (e.Wasserstand > 8000) 
+            Console.ForegroundColor = ConsoleColor.Red; 
+        Console.WriteLine($"{name} stoppt Fahrt auf {e.FlussName} wegen zu hohem Wasserstand ({e.Wasserstand} cm)");
+        Console.ResetColor(); 
     }
 }

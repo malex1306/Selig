@@ -18,6 +18,7 @@ public class Fluss
     public void RandomWasserStand()
     {
         wasserstand = random.Next(100, 10001);
+        
 
         
         WasserstandGeaendert?.Invoke(this, new WasserstandEventArgs(name, wasserstand));

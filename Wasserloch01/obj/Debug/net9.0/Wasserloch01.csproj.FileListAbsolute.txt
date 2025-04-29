@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/bin/Debug/net9.0/Wasserloch01
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/bin/Debug/net9.0/Wasserloch01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/bin/Debug/net9.0/Wasserloch01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/bin/Debug/net9.0/Wasserloch01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/bin/Debug/net9.0/Wasserloch01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/refint/Wasserloch01.dll
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/Wasserloch01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Wasserloch01/obj/Debug/net9.0/ref/Wasserloch01.dll

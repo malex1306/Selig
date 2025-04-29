@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/bin/Debug/net9.0/WarpKern01
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/bin/Debug/net9.0/WarpKern01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/bin/Debug/net9.0/WarpKern01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/bin/Debug/net9.0/WarpKern01.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/bin/Debug/net9.0/WarpKern01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/refint/WarpKern01.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/WarpKern01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarpKern01/obj/Debug/net9.0/ref/WarpKern01.dll

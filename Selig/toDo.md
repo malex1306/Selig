@@ -9,6 +9,10 @@
 -[ ] Generics
 -[ ] Delegates 
 -[ ] Events 
+-[ ] Strings / Collections
+-[ ] Extansion Methods
+-[ ] Datein / Streams
+-[ ] Serialiesierung / Parallelisierung
 
 MVC = Model View Controller
 - Model (Datenbank)
