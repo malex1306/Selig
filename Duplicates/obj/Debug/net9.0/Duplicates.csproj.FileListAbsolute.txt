@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/bin/Debug/net9.0/Duplicates
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/bin/Debug/net9.0/Duplicates.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/bin/Debug/net9.0/Duplicates.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/bin/Debug/net9.0/Duplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/bin/Debug/net9.0/Duplicates.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/refint/Duplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/Duplicates.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Duplicates/obj/Debug/net9.0/ref/Duplicates.dll

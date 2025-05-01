@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/bin/Debug/net9.0/StringBuilder02
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/bin/Debug/net9.0/StringBuilder02.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/bin/Debug/net9.0/StringBuilder02.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/bin/Debug/net9.0/StringBuilder02.dll
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/bin/Debug/net9.0/StringBuilder02.pdb
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.dll
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/refint/StringBuilder02.dll
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.pdb
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/StringBuilder02.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/StringBuilder02/obj/Debug/net9.0/ref/StringBuilder02.dll

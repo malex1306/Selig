@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/bin/Debug/net9.0/RemoveDuplicates
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/bin/Debug/net9.0/RemoveDuplicates.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/bin/Debug/net9.0/RemoveDuplicates.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/bin/Debug/net9.0/RemoveDuplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/bin/Debug/net9.0/RemoveDuplicates.pdb
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/refint/RemoveDuplicates.dll
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.pdb
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/RemoveDuplicates.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/RemoveDuplicates/obj/Debug/net9.0/ref/RemoveDuplicates.dll

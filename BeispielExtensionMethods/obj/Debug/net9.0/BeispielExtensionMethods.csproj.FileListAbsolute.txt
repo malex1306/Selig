@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/bin/Debug/net9.0/BeispielExtensionMethods
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/bin/Debug/net9.0/BeispielExtensionMethods.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/bin/Debug/net9.0/BeispielExtensionMethods.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/bin/Debug/net9.0/BeispielExtensionMethods.dll
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/bin/Debug/net9.0/BeispielExtensionMethods.pdb
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.dll
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/refint/BeispielExtensionMethods.dll
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.pdb
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/BeispielExtensionMethods.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/BeispielExtensionMethods/obj/Debug/net9.0/ref/BeispielExtensionMethods.dll

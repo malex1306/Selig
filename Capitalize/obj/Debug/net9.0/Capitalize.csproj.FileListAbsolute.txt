@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/bin/Debug/net9.0/Capitalize
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/bin/Debug/net9.0/Capitalize.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/bin/Debug/net9.0/Capitalize.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/bin/Debug/net9.0/Capitalize.dll
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/bin/Debug/net9.0/Capitalize.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.dll
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/refint/Capitalize.dll
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/Capitalize.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Capitalize/obj/Debug/net9.0/ref/Capitalize.dll

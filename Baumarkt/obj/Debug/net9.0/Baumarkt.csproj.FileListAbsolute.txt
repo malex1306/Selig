@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/bin/Debug/net9.0/Baumarkt
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/bin/Debug/net9.0/Baumarkt.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/bin/Debug/net9.0/Baumarkt.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/bin/Debug/net9.0/Baumarkt.dll
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/bin/Debug/net9.0/Baumarkt.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.dll
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/refint/Baumarkt.dll
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/Baumarkt.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Baumarkt/obj/Debug/net9.0/ref/Baumarkt.dll
