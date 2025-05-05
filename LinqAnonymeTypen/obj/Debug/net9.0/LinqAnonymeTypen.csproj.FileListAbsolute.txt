@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/bin/Debug/net9.0/LinqAnonymeTypen
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/bin/Debug/net9.0/LinqAnonymeTypen.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/bin/Debug/net9.0/LinqAnonymeTypen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/bin/Debug/net9.0/LinqAnonymeTypen.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/bin/Debug/net9.0/LinqAnonymeTypen.pdb
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/refint/LinqAnonymeTypen.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.pdb
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/LinqAnonymeTypen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqAnonymeTypen/obj/Debug/net9.0/ref/LinqAnonymeTypen.dll

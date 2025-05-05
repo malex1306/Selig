@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/bin/Debug/net9.0/ExtensionMethods01
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/bin/Debug/net9.0/ExtensionMethods01.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/bin/Debug/net9.0/ExtensionMethods01.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/bin/Debug/net9.0/ExtensionMethods01.dll
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/bin/Debug/net9.0/ExtensionMethods01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.dll
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/refint/ExtensionMethods01.dll
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.pdb
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ExtensionMethods01.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/ExtensionMethods01/obj/Debug/net9.0/ref/ExtensionMethods01.dll

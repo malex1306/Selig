@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wasserloch01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+941ebbac4831db35044fef73a3515c5d58e97d40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e4e853bc032033b4871bbe1b822299468fc0cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wasserloch01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wasserloch01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

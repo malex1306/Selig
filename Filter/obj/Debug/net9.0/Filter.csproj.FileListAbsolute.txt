@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Filter/bin/Debug/net9.0/Filter
+/Users/marcelalexandre/RiderProjects/Selig/Filter/bin/Debug/net9.0/Filter.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Filter/bin/Debug/net9.0/Filter.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Filter/bin/Debug/net9.0/Filter.dll
+/Users/marcelalexandre/RiderProjects/Selig/Filter/bin/Debug/net9.0/Filter.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.dll
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/refint/Filter.dll
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/Filter.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Filter/obj/Debug/net9.0/ref/Filter.dll

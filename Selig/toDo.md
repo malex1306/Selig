@@ -1,18 +1,20 @@
 -[x] Klasse/Objekt 
--[ ] Konstruktoren 
--[ ] Felder/ Methoden
--[ ] Properties
--[ ] Intefaces
--[ ] Abstrakte Klassen
--[ ] Staische klassen
+-[x] Konstruktoren 
+-[x] Felder/ Methoden
+-[x] Properties
+-[x] Intefaces
+-[x] Abstrakte Klassen
+-[x] Statische Klassen
 -[ ] Exceptions 
 -[ ] Generics
 -[ ] Delegates 
 -[ ] Events 
 -[ ] Strings / Collections
 -[ ] Extansion Methods
+-[ ] Linq
 -[ ] Datein / Streams
 -[ ] Serialiesierung / Parallelisierung
+-[ ] Anonyme Typen
 
 MVC = Model View Controller
 - Model (Datenbank)

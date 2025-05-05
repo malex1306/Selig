@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/bin/Debug/net9.0/Linq02
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/bin/Debug/net9.0/Linq02.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/bin/Debug/net9.0/Linq02.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/bin/Debug/net9.0/Linq02.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/bin/Debug/net9.0/Linq02.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/refint/Linq02.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/Linq02.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq02/obj/Debug/net9.0/ref/Linq02.dll
