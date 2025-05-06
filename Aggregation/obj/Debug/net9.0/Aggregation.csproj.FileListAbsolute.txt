@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/bin/Debug/net9.0/Aggregation
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/bin/Debug/net9.0/Aggregation.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/bin/Debug/net9.0/Aggregation.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/bin/Debug/net9.0/Aggregation.dll
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/bin/Debug/net9.0/Aggregation.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.dll
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/refint/Aggregation.dll
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/Aggregation.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Aggregation/obj/Debug/net9.0/ref/Aggregation.dll

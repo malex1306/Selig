@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/bin/Debug/net9.0/AufgabenOrderBy
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/bin/Debug/net9.0/AufgabenOrderBy.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/bin/Debug/net9.0/AufgabenOrderBy.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/bin/Debug/net9.0/AufgabenOrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/bin/Debug/net9.0/AufgabenOrderBy.pdb
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/refint/AufgabenOrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.pdb
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/AufgabenOrderBy.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/AufgabenOrderBy/obj/Debug/net9.0/ref/AufgabenOrderBy.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/bin/Debug/net9.0/Linq4
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/bin/Debug/net9.0/Linq4.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/bin/Debug/net9.0/Linq4.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/bin/Debug/net9.0/Linq4.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/bin/Debug/net9.0/Linq4.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/refint/Linq4.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/Linq4.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq4/obj/Debug/net9.0/ref/Linq4.dll

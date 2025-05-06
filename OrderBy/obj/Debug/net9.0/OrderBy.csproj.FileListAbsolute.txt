@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/bin/Debug/net9.0/OrderBy
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/bin/Debug/net9.0/OrderBy.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/bin/Debug/net9.0/OrderBy.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/bin/Debug/net9.0/OrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/bin/Debug/net9.0/OrderBy.pdb
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/refint/OrderBy.dll
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.pdb
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/OrderBy.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/OrderBy/obj/Debug/net9.0/ref/OrderBy.dll

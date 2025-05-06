@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/bin/Debug/net9.0/Pagination
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/bin/Debug/net9.0/Pagination.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/bin/Debug/net9.0/Pagination.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/bin/Debug/net9.0/Pagination.dll
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/bin/Debug/net9.0/Pagination.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.dll
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/refint/Pagination.dll
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/Pagination.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Pagination/obj/Debug/net9.0/ref/Pagination.dll
