@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/bin/Debug/net9.0/Linq05
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/bin/Debug/net9.0/Linq05.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/bin/Debug/net9.0/Linq05.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/bin/Debug/net9.0/Linq05.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/bin/Debug/net9.0/Linq05.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/refint/Linq05.dll
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.pdb
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/Linq05.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/Linq05/obj/Debug/net9.0/ref/Linq05.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/bin/Debug/net9.0/LinqJoins
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/bin/Debug/net9.0/LinqJoins.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/bin/Debug/net9.0/LinqJoins.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/bin/Debug/net9.0/LinqJoins.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/bin/Debug/net9.0/LinqJoins.pdb
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/refint/LinqJoins.dll
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.pdb
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/LinqJoins.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/LinqJoins/obj/Debug/net9.0/ref/LinqJoins.dll

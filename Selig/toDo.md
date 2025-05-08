@@ -5,13 +5,13 @@
 -[x] Intefaces
 -[x] Abstrakte Klassen
 -[x] Statische Klassen
--[ ] Exceptions 
--[ ] Generics
+-[x] Exceptions 
+-[x] Generics
 -[ ] Delegates 
 -[ ] Events 
 -[ ] Strings / Collections
 -[ ] Extansion Methods
--[ ] Linq
+-[x] Linq
 -[ ] Datein / Streams
 -[ ] Serialiesierung / Parallelisierung
 -[ ] Anonyme Typen

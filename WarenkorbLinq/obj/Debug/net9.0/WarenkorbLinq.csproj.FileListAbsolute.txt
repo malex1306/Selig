@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/bin/Debug/net9.0/WarenkorbLinq
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/bin/Debug/net9.0/WarenkorbLinq.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/bin/Debug/net9.0/WarenkorbLinq.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/bin/Debug/net9.0/WarenkorbLinq.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/bin/Debug/net9.0/WarenkorbLinq.pdb
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/refint/WarenkorbLinq.dll
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.pdb
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/WarenkorbLinq.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/WarenkorbLinq/obj/Debug/net9.0/ref/WarenkorbLinq.dll

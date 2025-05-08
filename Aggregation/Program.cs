@@ -38,6 +38,9 @@ class Program
         Console.WriteLine();
         Console.WriteLine(numbers
             .Aggregate((a, b) => a + b) / (double)numbers.Length);
+        Console.WriteLine(numbers.Aggregate(
+            0, (a, b) => a + b,
+            a => a / (double)numbers.Length));
         Console.WriteLine("Aufgabe 1e)");
         
         var SmallEvenNumber = numbers
@@ -46,7 +49,7 @@ class Program
         Console.WriteLine(SmallEvenNumber);
         Console.WriteLine();
         Console.WriteLine(numbers
-            .Aggregate((a, b) => (b % 2 == 0 && (a % 2 != 0 || b < a)) ? b : a));
+            .Aggregate((a, next) => next % 2 == 0 && (a % 2 != 0 || next < a) ? next : a));
         Console.WriteLine("Aufgabe 1f)");
         
         var LargeEvenNumber = numbers
@@ -55,7 +58,7 @@ class Program
         Console.WriteLine(LargeEvenNumber);
         Console.WriteLine();
         Console.WriteLine(numbers
-            .Aggregate((a, b) => (b % 2 != 0 && (a % 2 == 0 || b > a)) ? b : a));
+            .Aggregate((a, next) => next % 2 != 0 && (a % 2 == 0 || next > a) ? next : a));
         Console.WriteLine("Aufgabe 2g)");
         
         var SumEvenNumber = numbers.Where(n => n % 2 == 0).Sum();
