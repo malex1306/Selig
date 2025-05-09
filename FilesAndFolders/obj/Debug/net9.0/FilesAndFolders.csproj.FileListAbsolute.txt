@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/bin/Debug/net9.0/FilesAndFolders
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/bin/Debug/net9.0/FilesAndFolders.deps.json
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/bin/Debug/net9.0/FilesAndFolders.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/bin/Debug/net9.0/FilesAndFolders.dll
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/bin/Debug/net9.0/FilesAndFolders.pdb
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.dll
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/refint/FilesAndFolders.dll
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.pdb
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/FilesAndFolders.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Selig/FilesAndFolders/obj/Debug/net9.0/ref/FilesAndFolders.dll
