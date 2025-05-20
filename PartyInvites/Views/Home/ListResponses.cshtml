@@ -1,0 +1,35 @@
+@{
+    Layout = null;
+}
+@model IEnumerable<GuestResponse>
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Responses</title>
+</head>
+<body>
+<h2>Here is the list of people attending the party</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+        </tr>
+    }
+    </tbody>
+</table>
+</body>
+</html>
